@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+    color:white;
+    font-size: 40px;
+}
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+
+}
+.btn  {
+    display: none;
+}
